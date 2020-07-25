@@ -169,12 +169,75 @@
     }
   ],
   "colors": {
+    // Editor
     "editor.background": "#222527",
-    "editorCursor.foreground": "#d7e0e5",
     "editor.foreground": "#fafbfc",
+    "editorCursor.foreground": "#d7e0e5",
     "editorWhitespace.foreground": "#363a3d",
     "editor.lineHighlightBackground": "#2d3133",
-    "editor.selectionBackground": "#464c50"
+    "editorLineNumber.foreground": "#4f5559",
+    "editorLineNumber.activeForeground": "#757f85",
+    "editor.selectionBackground": "#464c50",
+    "editor.selectionForeground": "#FFF",
+    "editor.selectionHighlightBackground": "#464c5070",
+    "editor.hoverHighlightBackground": "#1B1D1F",
+
+    "editorWarning.foreground": "#FFAD54E6",
+    "editorError.foreground": "#d14240",
+
+    "editorOverviewRuler.modifiedForeground": "#56d6d65E",
+
+    "focusBorder": "#56d6d6",
+
+    // Diff Editor
+    "diffEditor.insertedTextBackground": "#9BFF943B",
+    "diffEditor.removedTextBackground": "#d142403B",
+
+    // Tabs
+    "tab.activeBackground": "#222527",
+    "tab.inactiveBackground": "#2d3133",
+    // "tab.inactiveModifiedBorder": "#000",
+
+    //Editor Gutter
+    "editorGutter.modifiedBackground": "#56d6d682",
+    "editorGutter.addedBackground": "#9BFF9482",
+    "editorGutter.deletedBackground": "#d14240CC",
+    "editorGutter.foldingControlForeground": "#d7e0e5",
+
+    //Editor Widget
+    "editorWidget.background": "#1B1D1F",
+    "editorWidget.border": "#363a3d",
+    "editorSuggestWidget.background": "#1B1D1F",
+    "editorSuggestWidget.highlightForeground": "#FFF",
+    "editorSuggestWidget.selectedBackground": "#56d6d633",
+    "editorSuggestWidget.border": "#363a3d",
+
+    // Activity Bar
+    "activityBar.background": "#212426",
+
+    // Sidebar
+    "sideBar.background": "#1B1D1F",
+    "sideBarSectionHeader.background": "#282C2E",
+
+    // Button
+    "button.background": "#000",
+
+    // List
+    "list.activeSelectionBackground": "#464c5070",
+    "list.inactiveSelectionBackground": "#464c5040",
+    "list.hoverBackground": "#464c5020",
+    "list.warningForeground": "#FFAD54",
+    "list.errorForeground": "#d14240",
+    // "list.highlightForeground": "#FFF",
+
+    // Git
+    "gitDecoration.modifiedResourceForeground": "#F5E29F",
+    "gitDecoration.untrackedResourceForeground": "#9BFF94",
+    "gitDecoration.ignoredResourceForeground": "#757f85",
+
+    // Panel
+    "panel.background": "#1B1D1F",
+    "panel.border": "#363a3d"
   },
   "name": "Sonoran"
 }
