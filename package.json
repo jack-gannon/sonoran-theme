@@ -2,11 +2,11 @@
   "name": "sonoran",
   "displayName": "Sonoran",
   "description": "Custom color theme created by Jack Gannon",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "jack-gannon",
   "repository": "https://github.com/jack-gannon/sonoran-theme.git",
   "engines": {
-    "vscode": "^1.47.0"
+    "vscode": "^1.40.0"
   },
   "categories": [
     "Themes"
